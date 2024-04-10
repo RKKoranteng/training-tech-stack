@@ -1,2 +1,4 @@
 ### RKKORANTENG TRAINING PLATFORM TECH STACK
-RKKoranteng Training Tech Stack provides easy install solutions for various technologies that our students need for completing course work and learning IT. 
+RKKoranteng Training Tech Stack contains easy install and deployment solutions for various technologies used in our training courses.
+
+[Check out our wiki to get started](#)
